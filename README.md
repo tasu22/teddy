@@ -1,10 +1,11 @@
 # teddy
 
-A new Flutter project.
+A VPN APP UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I am on a journey to create a vpn app. so i made this lovely ui where i used lottie animations
+
 
 A few resources to get you started if this is your first Flutter project:
 
